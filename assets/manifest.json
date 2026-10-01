@@ -1,0 +1,550 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "build",
+  "style": "claymorphism",
+  "generated_at": "2026-09-14T22:17:14Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/claymorphism/hero/hero-1.svg",
+      "category": "hero",
+      "style": "claymorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/hero/hero-2.svg",
+      "category": "hero",
+      "style": "claymorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/hero/hero-3.svg",
+      "category": "hero",
+      "style": "claymorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/hero/hero-4.svg",
+      "category": "hero",
+      "style": "claymorphism",
+      "title": "Build Hero",
+      "prompt": "Abstract hero for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-1.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 1",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-2.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 2",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-3.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 3",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-4.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 4",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-5.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 5",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-6.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 6",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-7.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 7",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-8.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 8",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-9.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 9",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-10.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 10",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-11.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 11",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/icons/icon-12.svg",
+      "category": "icons",
+      "style": "claymorphism",
+      "title": "Build Icons Icon 12",
+      "prompt": "Abstract icons for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "claymorphism",
+      "title": "Build Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "claymorphism",
+      "title": "Build Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "claymorphism",
+      "title": "Build Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "claymorphism",
+      "title": "Build Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "claymorphism",
+      "title": "Build Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "claymorphism",
+      "title": "Build Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "claymorphism",
+      "title": "Build Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "claymorphism",
+      "title": "Build Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "claymorphism",
+      "title": "Build Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "claymorphism",
+      "title": "Build Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    },
+    {
+      "file": "assets/claymorphism/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "claymorphism",
+      "title": "Build Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Claymorphism (3D Clay UI) styled website; palette #f472b6, #9ca3af, #fbbf24, #fdf2f8, #ffffff, #ffe4e6, #3f1d38, #9f6d8a, rgba(63,29,56,0.08); inflated soft 3d shapes, bubble buttons, playful inner shadows.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#f472b6",
+        "#9ca3af",
+        "#fbbf24",
+        "#fdf2f8",
+        "#ffffff",
+        "#ffe4e6",
+        "#3f1d38",
+        "#9f6d8a",
+        "rgba(63,29,56,0.08)"
+      ],
+      "seed": 840195046
+    }
+  ]
+}
